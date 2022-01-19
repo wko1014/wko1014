@@ -1,9 +1,9 @@
 ## Wonjun Ko
 ```
-:bar_chart: Data has its own characteristic.
+Data has its own characteristic.
 ```
 > I am a Ph.D. candidate in Department of Brain and Cognitive Engineering, Korea University, Seoul, Republic of Korea.</br>
-> I am studying and developing biomedical data-oriented deep representation learning framework.
+> I am studying and developing biomedical data-oriented deep representation learning framework. 
 
 ## Contacts
 * [E-mail](wjko@korea.ac.kr)

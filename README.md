@@ -8,7 +8,7 @@ Data has its own characteristic.
 ## Contacts
 * [E-mail](wjko@korea.ac.kr)
 * [WebSite](https://sites.google.com/korea.ac.kr/wonjun-ko/home?authuser=1)
-* [LinedIn](https://www.linkedin.com/in/wonjun-ko-30475a19a/)
+* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjun-ko-30475a19a/)
 * [Google Scholar](https://scholar.google.com/citations?user=Fvzg1_sAAAAJ&hl=ko&authuser=1)
 
 ## Skills
@@ -24,4 +24,4 @@ Data has its own characteristic.
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-[Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)

@@ -2,6 +2,7 @@
 ```
 Data has its own characteristic.
 ```
+> I recieved the B.S. degree in Department of Physics, Sogang University, Seoul, Republic of Korea.</br>
 > I am a Ph.D. candidate in Department of Brain and Cognitive Engineering, Korea University, Seoul, Republic of Korea.</br>
 > I am studying and developing biomedical data-oriented deep representation learning framework.</br>
 > Visit my [Google Scholar](https://scholar.google.com/citations?user=Fvzg1_sAAAAJ&hl=ko&authuser=1) to see my publications and proceedings.

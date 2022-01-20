@@ -12,12 +12,11 @@ Data has its own characteristic.
 * [Google Scholar](https://scholar.google.com/citations?user=Fvzg1_sAAAAJ&hl=ko&authuser=1)
 
 ## Skills
-<a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/></a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<a href="" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy%20-%238CAAE6.svg?&style=flat-square&logo=SciPy&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit-learn%20-%23F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?&style=flat-square&logo=Numpy&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?&style=flat-square&logo=OpenCV&logoColor=white" /></a>
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)

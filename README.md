@@ -7,7 +7,7 @@ Data has its own characteristic.
 > Visit my [Google Scholar](https://scholar.google.com/citations?user=Fvzg1_sAAAAJ&hl=ko&authuser=1) to see my publications and proceedings.
 
 ## Contacts
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wjko@korea.ac.kr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]<wjko@korea.ac.kr>
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/korea.ac.kr/wonjun-ko/home?authuser=1)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjun-ko-30475a19a/)
 

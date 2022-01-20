@@ -6,9 +6,9 @@ Data has its own characteristic.
 > I am studying and developing biomedical data-oriented deep representation learning framework. 
 
 ## Contacts
-* [E-mail](wjko@korea.ac.kr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wjko@korea.ac.kr)
 * [WebSite](https://sites.google.com/korea.ac.kr/wonjun-ko/home?authuser=1)
-* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjun-ko-30475a19a/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjun-ko-30475a19a/)
 * [Google Scholar](https://scholar.google.com/citations?user=Fvzg1_sAAAAJ&hl=ko&authuser=1)
 
 ## Skills

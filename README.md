@@ -12,7 +12,7 @@ Data has its own characteristic.
 [![Google Scholar](https://img.shields.io/badge/google_scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Fvzg1_sAAAAJ&hl=ko&authuser=1)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wonjun-ko-30475a19a/)
 
-## Skills & Tools
+## Skills and Tools
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
 

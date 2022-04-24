@@ -5,7 +5,8 @@ Data has its own characteristic.
 > I recieved the B.S. degree in Department of Physics, Sogang University, Seoul, Republic of Korea.
 > I am a Ph.D. candidate in Department of Brain and Cognitive Engineering, Korea University, Seoul, Republic of Korea.</br>
 > I am studying and developing biomedical data-oriented deep representation learning frameworks (biosignal processing, neuroimaging analysis, and biomedical data mining) and algorithms (supervised, self-supervised, semi-supervised, unsupervised, and reinforcement learning) for various modalities (image, signal, graph, and tabular formats).</br>
-> Ph.D. Dissertation: Deep Representation Learning in Biomedicine (*In progess*)
+
+Ph.D. Dissertation Title: Deep Representation Learning in Biomedicine (*In progess*)
 
 ## Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjko@korea.ac.kr)

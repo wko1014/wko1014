@@ -6,7 +6,7 @@ Data has its own characteristic.
 > I am studying and developing biomedical data-oriented deep representation learning frameworks (biosignal processing, neuroimaging analysis, and biomedical data mining) and algorithms (supervised, self-supervised, semi-supervised, unsupervised, and reinforcement learning) for various modalities (image, signal, graph, and tabular formats).</br>
 
 ## Dissertation
-[![Dissertation](https://img.shields.io/badge/Ph.D._Dissertation:_Deep_Representation_Learning_in_Biomedicine_(in_progress)-22A2E3?style=for-the-badge&logo=gitbook&logoColor=white)](https://drive.google.com/file/d/1BEcb5uUhDh2DKn0AmnsNerK52oNBXl_n/view?usp=sharing)
+[![Dissertation](https://img.shields.io/badge/Ph.D._Dissertation:_Deep_Representation_Learning_in_Biomedicine_(in_progress)-22A2E3?style=for-the-badge&logo=gitbook&logoColor=white)](https://drive.google.com/file/d/1kSrpDrHzcMOUupjVq-PU_ckurJ0yGkP7/view?usp=sharing)
 
 ## Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjko@korea.ac.kr)

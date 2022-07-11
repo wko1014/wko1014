@@ -1,4 +1,4 @@
-## Wonjun Ko
+## Wonjun Ko, Ph.D.
 ```
 Data has its own characteristic.
 ```
